@@ -1,0 +1,14 @@
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\board1.xnb
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\sample background.xnb
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\sample floor.xnb
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\sample window.xnb
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\solid floor.xnb
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\tile1.xnb
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Kempovania.exe
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Kempovania.pdb
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\obj\x86\Debug\Kempovania.exe
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\obj\x86\Debug\Kempovania.pdb
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\player_left.xnb
+c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\player_right.xnb

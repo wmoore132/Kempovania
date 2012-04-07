@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>board1.PNG</Source>
+      <Name>board1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\board1.xnb</Output>
+      <Time>2012-04-06T17:49:50.5136331-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sample background.PNG</Source>
+      <Name>sample background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\sample background.xnb</Output>
+      <Time>2012-04-06T17:49:50.5176333-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sample floor.PNG</Source>
+      <Name>sample floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\sample floor.xnb</Output>
+      <Time>2012-04-06T17:49:50.4466292-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sample window.PNG</Source>
+      <Name>sample window</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\sample window.xnb</Output>
+      <Time>2012-04-06T17:49:50.4506295-07:00</Time>
+    </Item>
+    <Item>
+      <Source>solid floor.PNG</Source>
+      <Name>solid floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\solid floor.xnb</Output>
+      <Time>2012-04-06T17:49:50.4886316-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tile1.PNG</Source>
+      <Name>tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\tile1.xnb</Output>
+      <Time>2012-04-06T17:49:50.4916318-07:00</Time>
+    </Item>
+    <Item>
+      <Source>player_left.PNG</Source>
+      <Name>player_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\player_left.xnb</Output>
+      <Time>2012-04-06T17:49:50.4396288-07:00</Time>
+    </Item>
+    <Item>
+      <Source>player_right.PNG</Source>
+      <Name>player_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\player_right.xnb</Output>
+      <Time>2012-04-06T17:49:50.4436291-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\KempovaniaContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\KempovaniaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\william\documents\visual studio 2010\Projects\Kempovania\Kempovania\Kempovania\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-04T15:23:07.2110835-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

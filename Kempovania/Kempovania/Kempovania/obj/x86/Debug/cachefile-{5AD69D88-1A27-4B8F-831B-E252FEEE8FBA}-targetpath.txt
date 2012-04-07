@@ -1,0 +1,8 @@
+Content\board1.xnb
+Content\sample background.xnb
+Content\sample floor.xnb
+Content\sample window.xnb
+Content\solid floor.xnb
+Content\tile1.xnb
+Content\player_left.xnb
+Content\player_right.xnb
