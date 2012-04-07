@@ -1,3 +1,3 @@
-Kempovania: A first game project in development
+Kempovania: Small game project in development
 
 -wmoore132
